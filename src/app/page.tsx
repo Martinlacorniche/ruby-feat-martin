@@ -116,6 +116,11 @@ export default function Home() {
   </nav>
 </header>
 
+{/* Fun disclaimer */}
+<div className="bg-rose-100 text-rose-700 text-center py-2 px-4 text-sm font-medium">
+  ⚡ This site was inspired by yours.  
+  It will <span className="line-through">self-destruct</span> disappear once you’ve answered me 😅
+</div>
 
 
       {/* HERO */}
